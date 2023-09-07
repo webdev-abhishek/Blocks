@@ -1,0 +1,4 @@
+* {
+    background-color: rgba(26, 32, 44, var(--bg-opacity));
+    --bg-opacity: 1;
+}
