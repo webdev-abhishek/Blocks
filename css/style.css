@@ -1,0 +1,15 @@
+* {
+    background-color: rgba(26, 32, 44, var(--bg-opacity));
+    --bg-opacity: 1;
+}
+
+.we
+{
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+
+.we:hover {
+    transform: scale(1.1);
+}
